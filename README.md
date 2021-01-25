@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 - :japan: I'm also learning Japanese
 
-- 🤔 I’m looking for help with Javascript and front-end things
+- 🤔 I’m looking for help with JavaScript and front-end related things
 
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her/hers
 
 
