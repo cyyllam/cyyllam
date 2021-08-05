@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning all things R, but specifically how to publish using distill and blogdown
-
-- :japan: I'm also learning Japanese
+- 🌱 I’m currently learning all things R
 
 - 🤔 I’m looking for help with JavaScript and front-end related things
 
